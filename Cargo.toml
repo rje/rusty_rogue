@@ -1,0 +1,8 @@
+[package]
+name = "rusty_rogue"
+version = "0.1.0"
+authors = ["Ryan J. Evans <me@rjevans.net>"]
+
+
+[dependencies]
+pancurses = "0.9.0"
